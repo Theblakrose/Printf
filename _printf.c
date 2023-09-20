@@ -6,6 +6,7 @@ void print_buffer(char buffer[], int *buff_ind);
  * _printf - Printf function
  * @format: format.
  * Return: Printed chars.
+ *Project done Petronella
  */
 int _printf(const char *format, ...)
 {
